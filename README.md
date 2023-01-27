@@ -15,6 +15,10 @@ Requirements.
 # Clone 
 git clone https://github.com/THJepTheDep/MazHackClient.git
 
+#Open folder
+
+cd MazHackClient
+
 # open cmd on the installation folder
 
 # run the script
