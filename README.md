@@ -29,4 +29,4 @@ py main.py -i/--interface
 
 - [Email-Bomber](https://github.com/mohinparamasivam/Email-Bomber/blob/master/emailbomber3.py)
 - [Phone-Bomber](https://github.com/bhattsameer/Bombers/blob/master/SMS_bomber_version2.py)
-- [Wi-Fi-Attack](https://github.com/drygdryg/OneShot)
+- [Wi-Fi-Attack](https://github.com/drygdryg/OneShot/blob/master/oneshot.py)
